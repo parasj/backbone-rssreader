@@ -1,0 +1,209 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+<title>Make WordPress Core</title>
+<atom:link href="http://make.wordpress.org/core/feed/" rel="self" type="application/rss+xml"/>
+<link>http://make.wordpress.org/core</link>
+<description>WordPress Development Updates</description>
+<lastBuildDate>Wed, 10 Oct 2012 19:18:47 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://wordpress.org/?v=3.5-beta2</generator>
+<atom:link rel="hub" href="http://make.wordpress.org/core/?pushpress=hub"/>
+<item>
+<title>Please suggest items for today’s IRC dev chat…</title>
+<link>http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/</link>
+<comments>http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/#comments</comments>
+<pubDate>Wed, 10 Oct 2012 17:35:37 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[agenda]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/</guid>
+<description><![CDATA[Please suggest items for today&#8217;s IRC dev chat. Today is the target date for Beta 2. Let&#8217;s figure out what we need to get done.]]></description>
+<content:encoded><![CDATA[<p>Please suggest items for today&#8217;s IRC dev chat. Today is the target date for Beta 2. Let&#8217;s figure out what we need to get done.</p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/feed/</wfw:commentRss>
+<slash:comments>2</slash:comments>
+</item>
+<item>
+<title>Agenda for October 3, 2012</title>
+<link>http://make.wordpress.org/core/2012/10/03/agenda-for-october-3-2012/</link>
+<comments>http://make.wordpress.org/core/2012/10/03/agenda-for-october-3-2012/#comments</comments>
+<pubDate>Wed, 03 Oct 2012 17:47:39 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[agenda]]></category>
+<guid isPermaLink="false">https://make.wordpress.org/core/?p=2437</guid>
+<description><![CDATA[Please suggest items for today&#8217;s IRC dev chat. I think the goal for today is: Determine how 3.5 Beta 1 was received. Any major bugs? Any lingering issues we need decision points on? How do the support forums and Trac queues look? Determine the goals for Beta 2, dropping next week. (After that, one beta [...]]]></description>
+<content:encoded><![CDATA[<p>Please suggest items for today&#8217;s IRC dev chat.</p>
+<p>I think the goal for today is:</p>
+<ul>
+<li>Determine how 3.5 Beta 1 was received. Any major bugs? Any lingering issues we need decision points on? How do the support forums and Trac queues look?</li>
+</ul>
+<ul>
+<li>Determine the goals for Beta 2, dropping next week. (After that, one beta per week until we transition to RCs.) Media needs a final push, and a few things still need to land. We need to start looking at closing out tasks/projects that are in trunk but need tweaks, testing, or changes to consider them done.</li>
+</ul>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/10/03/agenda-for-october-3-2012/feed/</wfw:commentRss>
+<slash:comments>2</slash:comments>
+</item>
+<item>
+<title>Our main SVN server is undergoing maintenance early…</title>
+<link>http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/</link>
+<comments>http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/#comments</comments>
+<pubDate>Thu, 27 Sep 2012 07:45:32 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[svn]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/</guid>
+<description><![CDATA[(Maintenance started around 8:18 AM UTC and finished around 9 AM.) Original post. Our main SVN server is undergoing maintenance early shortly. It should take less than an hour (once it starts). During that window, no WordPress.org Subversion repositories will respond. The exception is http://plugins.svn.wordpress.org, which is on a different server. The 3.5 Beta 1 [...]]]></description>
+<content:encoded><![CDATA[<p><strong>(Maintenance started around 8:18 AM UTC and finished around 9 AM.)</strong></p>
+<p><strong>Original post.</strong> Our main SVN server is undergoing maintenance early shortly. It should take less than an hour (once it starts). During that window, no WordPress.org Subversion repositories will respond. The exception is <a href="http://plugins.svn.wordpress.org" rel="nofollow">http://plugins.svn.wordpress.org</a>, which is on a different server.</p>
+<p>The 3.5 Beta 1 and Twenty Twelve releases are delayed until after this is done, so see you all late Thursday morning.</p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/feed/</wfw:commentRss>
+<slash:comments>6</slash:comments>
+</item>
+<item>
+<title>Please suggest items for the Wednesday September 26…</title>
+<link>http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/</link>
+<comments>http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/#comments</comments>
+<pubDate>Tue, 25 Sep 2012 23:11:06 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[agenda]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/</guid>
+<description><![CDATA[Please suggest items for the Wednesday, September 26, dev chat. Suggested reading: Countdown to 3.5 Beta 1 and Timeline for Twenty Twelve 1.0. Updated. Agenda topics based on the comment thread: #21951 &#8211; Twenty Twelve &#8211; Conditionals in one template versus more templates but less logic #21101 &#8211; get_comments() &#8211; comment_approved versus status #18302 &#8211; [...]]]></description>
+<content:encoded><![CDATA[<p>Please suggest items for the Wednesday, September 26, dev chat.</p>
+<p>Suggested reading: <a href="http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/">Countdown to 3.5 Beta 1</a> and <a href="http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/">Timeline for Twenty Twelve 1.0</a>.</p>
+<p><strong>Updated</strong>. Agenda topics based on the comment thread:</p>
+<ul>
+<li><a href="http://core.trac.wordpress.org/ticket/21951">#21951</a> &#8211; Twenty Twelve &#8211; Conditionals in one template versus more templates but less logic</li>
+<li><a href="http://core.trac.wordpress.org/ticket/21101">#21101</a> &#8211; get_comments() &#8211; comment_approved versus status</li>
+<li><a href="http://core.trac.wordpress.org/ticket/18302">#18302</a> &#8211; theme_uri() with child theme inheritance</li>
+<li><a href="http://core.trac.wordpress.org/ticket/22002">#22002</a> &#8211; Plugin favorites via the plugin installer screen</li>
+</ul>
+<p>An incomplete list of things that need to land before beta 1:</p>
+<ul>
+<li><del>Welcome screen v2</del></li>
+<li>Color picker (even if it is the initial pass; we can follow up after with @mattwiebe&#8217;s changes)</li>
+<li><del>Retina spinners</del> (more likely people can find bugs)</li>
+<li>Page on front UI</li>
+<li>Multisite in a subdirectory</li>
+</ul>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/feed/</wfw:commentRss>
+<slash:comments>17</slash:comments>
+</item>
+<item>
+<title>Countdown to 3.5 Beta 1</title>
+<link>http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/</link>
+<comments>http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/#comments</comments>
+<pubDate>Thu, 20 Sep 2012 17:22:53 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[3.5]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/</guid>
+<description><![CDATA[As I covered at the end of the dev chat yesterday (logs), we&#8217;re planning for 3.5 Beta 1 next week. This gives us a week to land a lot of things. I&#8217;ve updated the teams and tasks page. Everything is moving along nicely! Solid pace everywhere. There&#8217;s also a UI-specific progress report from @lessbloat on [...]]]></description>
+<content:encoded><![CDATA[<p>As I covered at the end of the dev chat yesterday (<a href="https://irclogs.wordpress.org/chanlog.php?channel=wordpress-dev&amp;day=2012-09-19&amp;sort=asc#m459350">logs</a>), we&#8217;re planning for <strong>3.5 Beta 1 next week</strong>. This gives us a week to land a lot of things.</p>
+<p>I&#8217;ve updated the <a href="http://make.wordpress.org/core/wordpress-3-5-teams-and-tasks/"><strong>teams and tasks</strong></a> page. Everything is moving along nicely! Solid pace everywhere. There&#8217;s also a <a href="http://make.wordpress.org/ui/2012/09/19/heres-a-list-of-todos-that-came-out/">UI-specific progress report</a> from @lessbloat on make/ui.</p>
+<p><strong>Ship early, ship often.</strong> This is expected to be a very rough cut beta. I called it &#8220;scrappy,&#8221; and not in the pugnacious way. After that, the plan is for a new beta every week. By beta 3 or so, major features should be pretty well shored up.</p>
+<p>Some background on this: As I mentioned during the chat, I really want to make sure we have strong pre-release participation. After studying the last five release cycles, I noticed that earlier and less stable betas can encourage this. When we ship more polished betas, it seems people pick up on that, and it feels like less testing occurs. Additionally, we&#8217;ve sometimes gone a month or more between the first and second beta. Rather than slowing down, beta should be the time we speed up!</p>
+<p>So, by week 6 or so, we should be ready to transition out of bug-fix mode and into RC mode. I&#8217;m excited! Who&#8217;s with me?</p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/feed/</wfw:commentRss>
+<slash:comments>7</slash:comments>
+</item>
+<item>
+<title>Timeline for Twenty Twelve 1.0 — final testing window</title>
+<link>http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/</link>
+<comments>http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/#comments</comments>
+<pubDate>Thu, 20 Sep 2012 17:12:44 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[3.5]]></category>
+<category><![CDATA[dev chat]]></category>
+<category><![CDATA[twentytwelve]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/</guid>
+<description><![CDATA[During the dev chat yesterday (logs), it was determined that the timeline for Twenty Twelve&#8217;s release to the WordPress.org theme directory will be next week. That means if you have any bugs to report against Twenty Twelve, please do so now! It&#8217;s time for final reviews. Once 1.0 is released, it will be very tough [...]]]></description>
+<content:encoded><![CDATA[<p>During the dev chat yesterday (<a href="https://irclogs.wordpress.org/chanlog.php?channel=wordpress-dev&amp;day=2012-09-19&amp;sort=asc#m459350">logs</a>), it was determined that the timeline for Twenty Twelve&#8217;s release to the WordPress.org theme directory will be <strong>next week</strong>.</p>
+<p>That means <strong>if you have any bugs to report against Twenty Twelve, please do so now!</strong> It&#8217;s time for final reviews. Once 1.0 is released, it will be very tough for us to make style or code changes, as we will then need to avoid breaking child themes (both code wise, and stylistically).</p>
+<p>So, if you haven&#8217;t looked at Twenty Twelve yet, now&#8217;s the time. Here&#8217;s the demo site: <a href="http://twentytwelvedemo.wordpress.com" rel="nofollow">http://twentytwelvedemo.wordpress.com</a>. Also, if you&#8217;re using the Beta Tester plugin instead of a checkout from Subversion, you may not have Twenty Twelve installed and up to date. In that case, here&#8217;s <a href="http://core.trac.wordpress.org/changeset?format=zip&amp;new=21930&amp;old=21261&amp;new_path=%2Ftrunk%2Fwp-content%2Fthemes%2Ftwentytwelve&amp;old_path=%2Ftrunk%2Fwp-content%2Fthemes%2Ftwentytwelve">a direct link to download a ZIP</a>.</p>
+<p>(<a href='http://make.wordpress.org/core/mentions/westi/' class='mention'>@westi</a>, <a href='http://make.wordpress.org/core/mentions/dd32/' class='mention'>@dd32</a>, we should adjust how beta theme installs are handled&#8230;)</p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/feed/</wfw:commentRss>
+<slash:comments>2</slash:comments>
+</item>
+<item>
+<title>Suggest agenda items for the September 19…</title>
+<link>http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-september-19/</link>
+<comments>http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-september-19/#comments</comments>
+<pubDate>Tue, 18 Sep 2012 23:47:53 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[agenda]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-the-september-18-developer/</guid>
+<description><![CDATA[Suggest agenda items for the September 18 19 developer chat. 20:00 UTC in #wordpress-dev in irc://chat.freenode.net]]></description>
+<content:encoded><![CDATA[<p>Suggest agenda items for the September <del>18</del> 19 developer chat.</p>
+<p>20:00 UTC in #wordpress-dev in <a href="irc://chat.freenode.net" rel="nofollow">irc://chat.freenode.net</a></p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-september-19/feed/</wfw:commentRss>
+<slash:comments>8</slash:comments>
+</item>
+<item>
+<title>An upcoming free Stanford HCI human computer interaction…</title>
+<link>http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/</link>
+<comments>http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/#comments</comments>
+<pubDate>Sun, 16 Sep 2012 20:36:51 +0000</pubDate>
+<dc:creator>Matt Mullenweg</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/</guid>
+<description><![CDATA[An upcoming free Stanford HCI (human computer interaction) course coming up: https://www.coursera.org/course/hci (Hat tip: @DanielBachhuber.)]]></description>
+<content:encoded><![CDATA[<p>An upcoming free Stanford HCI (human computer interaction) course coming up:</p>
+<p><a href="https://www.coursera.org/course/hci" rel="nofollow">https://www.coursera.org/course/hci</a></p>
+<p>(Hat tip: @DanielBachhuber.)</p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>The agenda I have for today is going…</title>
+<link>http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/</link>
+<comments>http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/#comments</comments>
+<pubDate>Wed, 12 Sep 2012 18:27:59 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[agenda]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/</guid>
+<description><![CDATA[The agenda I have for today is going through the projects-teams-tasks list and seeing where we are at. Some goals: I would like to cut the open enhancements in 3.5 in half by next week (this report peaked at 97 earlier today). Items should to be either marked for commit or punt. I would like [...]]]></description>
+<content:encoded><![CDATA[<p>The agenda I have for today is going through <a href="http://make.wordpress.org/core/wordpress-3-5-teams-and-tasks/">the projects-teams-tasks</a> list and seeing where we are at.</p>
+<p>Some goals:</p>
+<ul>
+<li>I would like to cut the <a href="http://core.trac.wordpress.org/query?milestone=3.5&amp;type=enhancement&amp;status=!closed&amp;component=!Media&amp;component=!Upload&amp;component=!Bundled+Theme&amp;group=milestone">open enhancements in 3.5</a> in half by next week (this report peaked at 97 earlier today). Items should to be either marked for commit or punt.</li>
+<li>I would like to resume organized, structured bug scrubs on Mondays/Tuesdays/Thursdays.</li>
+<li>I would like any project/task that needs review to get it by this weekend (that&#8217;s mostly on me).</li>
+</ul>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/feed/</wfw:commentRss>
+<slash:comments>4</slash:comments>
+</item>
+<item>
+<title>Marking duplicate tickets on Trac</title>
+<link>http://make.wordpress.org/core/2012/09/11/trac-duplicates/</link>
+<comments>http://make.wordpress.org/core/2012/09/11/trac-duplicates/#comments</comments>
+<pubDate>Tue, 11 Sep 2012 17:31:13 +0000</pubDate>
+<dc:creator>Andrew Nacin</dc:creator>
+<category><![CDATA[Uncategorized]]></category>
+<category><![CDATA[trac]]></category>
+<guid isPermaLink="false">http://make.wordpress.org/core/?p=2395</guid>
+<description><![CDATA[Marking duplicate tickets on Trac just got a bit smarter and easier. Now, when you mark a ticket a duplicate, you specify the other ticket. A comment will be cross-posted there that references the duplicate, so you don&#8217;t have to. You can optionally include a comment and any other ticket property changes, as before. If [...]]]></description>
+<content:encoded><![CDATA[<p><strong>Marking duplicate tickets on Trac</strong> just got a bit smarter and easier. Now, when you mark a ticket a duplicate, you specify the other ticket. A comment will be cross-posted there that references the duplicate, so you don&#8217;t have to.</p>
+<p>You can optionally include a comment and any other ticket property changes, as before. If your comment doesn&#8217;t include a reference to the ticket, it&#8217;ll automatically add it.</p>
+<p style="text-align: center"><img class="size-full wp-image-2396 aligncenter" title="Screen Shot 2012-09-11 at 1.19.13 PM" src="http://make.wordpress.org/core/files/2012/09/Screen-Shot-2012-09-11-at-1.19.13-PM.png" alt="" width="532" height="41" /></p>
+<p>A side effect of how the plugin is written (it&#8217;s a modified version of <a href="https://github.com/nmaier/TracDuplicates">this one</a>) is that no email notification is sent for the &#8220;#___ was marked as a duplicate.&#8221; This is great because it avoids a double-email (that until now would happen manually). On the other hand, if you consume Trac via your inbox like me, you might expect that the next email is the other ticket, floated to the surface again. I&#8217;ll leave it as is for now.</p>
+]]></content:encoded>
+<wfw:commentRss>http://make.wordpress.org/core/2012/09/11/trac-duplicates/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+</channel>
+</rss>

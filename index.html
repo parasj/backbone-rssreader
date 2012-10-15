@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>RSS Reader</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="description" content="RSS Reader App">
+    <meta name="author" content="Paras Jain">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.1.1/css/bootstrap.min.css">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.1.1/css/bootstrap-responsive.min.css">
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#"><div id="blogtitle"></div></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="maincontent container" id="readerapp">
+      <!--div class="row">
+        <button id="newArticle" class="btn btn-primary">Create New Article</button>
+        <button id="clearArticles" class="btn btn-danger">Clear All Articles</button>
+      </div-->
+      <br /><br />
+      <table class="table table-hover" id="article-list"></table>
+      <!-- <div id="article-list"><ul data-role="listview"></ul></div> <ul class="listview"></ul>         <div ></div> -->
+    </div>
+
+    <script src="//documentcloud.github.com/underscore/underscore-min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="//backbonejs.org/backbone-min.js"></script>
+    <script src="vendor/vendorlib.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.1.1/bootstrap.min.js"></script>
+    <script src="code.js"></script>
+
+  </body>
+</html>
+
+<!-- TEMPLATES -->
+<script type="text/template" id="item-template">
+  <td><div class="article-item">
+      <h3><%- title %></h3>
+      <h6>Updated: <%- date %></h6>
+      <p><%- desc %></p>
+  </div></td>
+</script>
