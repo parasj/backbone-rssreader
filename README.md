@@ -1,7 +1,7 @@
 backbone-rssreader
 ==================
 
-A simple Backbone.js RSS Reader app.
+A simple Backbone.js RSS Reader app.  
 
 Contributors
 ------------
