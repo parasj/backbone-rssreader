@@ -1,209 +1,187 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
-<channel>
-<title>Make WordPress Core</title>
-<atom:link href="http://make.wordpress.org/core/feed/" rel="self" type="application/rss+xml"/>
-<link>http://make.wordpress.org/core</link>
-<description>WordPress Development Updates</description>
-<lastBuildDate>Wed, 10 Oct 2012 19:18:47 +0000</lastBuildDate>
-<language>en-US</language>
-<sy:updatePeriod>hourly</sy:updatePeriod>
-<sy:updateFrequency>1</sy:updateFrequency>
-<generator>http://wordpress.org/?v=3.5-beta2</generator>
-<atom:link rel="hub" href="http://make.wordpress.org/core/?pushpress=hub"/>
-<item>
-<title>Please suggest items for today’s IRC dev chat…</title>
-<link>http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/</link>
-<comments>http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/#comments</comments>
-<pubDate>Wed, 10 Oct 2012 17:35:37 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[agenda]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/</guid>
-<description><![CDATA[Please suggest items for today&#8217;s IRC dev chat. Today is the target date for Beta 2. Let&#8217;s figure out what we need to get done.]]></description>
-<content:encoded><![CDATA[<p>Please suggest items for today&#8217;s IRC dev chat. Today is the target date for Beta 2. Let&#8217;s figure out what we need to get done.</p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/10/10/please-suggest-items-for-todays-irc-dev-chat/feed/</wfw:commentRss>
-<slash:comments>2</slash:comments>
-</item>
-<item>
-<title>Agenda for October 3, 2012</title>
-<link>http://make.wordpress.org/core/2012/10/03/agenda-for-october-3-2012/</link>
-<comments>http://make.wordpress.org/core/2012/10/03/agenda-for-october-3-2012/#comments</comments>
-<pubDate>Wed, 03 Oct 2012 17:47:39 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[agenda]]></category>
-<guid isPermaLink="false">https://make.wordpress.org/core/?p=2437</guid>
-<description><![CDATA[Please suggest items for today&#8217;s IRC dev chat. I think the goal for today is: Determine how 3.5 Beta 1 was received. Any major bugs? Any lingering issues we need decision points on? How do the support forums and Trac queues look? Determine the goals for Beta 2, dropping next week. (After that, one beta [...]]]></description>
-<content:encoded><![CDATA[<p>Please suggest items for today&#8217;s IRC dev chat.</p>
-<p>I think the goal for today is:</p>
-<ul>
-<li>Determine how 3.5 Beta 1 was received. Any major bugs? Any lingering issues we need decision points on? How do the support forums and Trac queues look?</li>
-</ul>
-<ul>
-<li>Determine the goals for Beta 2, dropping next week. (After that, one beta per week until we transition to RCs.) Media needs a final push, and a few things still need to land. We need to start looking at closing out tasks/projects that are in trunk but need tweaks, testing, or changes to consider them done.</li>
-</ul>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/10/03/agenda-for-october-3-2012/feed/</wfw:commentRss>
-<slash:comments>2</slash:comments>
-</item>
-<item>
-<title>Our main SVN server is undergoing maintenance early…</title>
-<link>http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/</link>
-<comments>http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/#comments</comments>
-<pubDate>Thu, 27 Sep 2012 07:45:32 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[svn]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/</guid>
-<description><![CDATA[(Maintenance started around 8:18 AM UTC and finished around 9 AM.) Original post. Our main SVN server is undergoing maintenance early shortly. It should take less than an hour (once it starts). During that window, no WordPress.org Subversion repositories will respond. The exception is http://plugins.svn.wordpress.org, which is on a different server. The 3.5 Beta 1 [...]]]></description>
-<content:encoded><![CDATA[<p><strong>(Maintenance started around 8:18 AM UTC and finished around 9 AM.)</strong></p>
-<p><strong>Original post.</strong> Our main SVN server is undergoing maintenance early shortly. It should take less than an hour (once it starts). During that window, no WordPress.org Subversion repositories will respond. The exception is <a href="http://plugins.svn.wordpress.org" rel="nofollow">http://plugins.svn.wordpress.org</a>, which is on a different server.</p>
-<p>The 3.5 Beta 1 and Twenty Twelve releases are delayed until after this is done, so see you all late Thursday morning.</p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/27/our-main-svn-server-is-undergoing-maintenance-early/feed/</wfw:commentRss>
-<slash:comments>6</slash:comments>
-</item>
-<item>
-<title>Please suggest items for the Wednesday September 26…</title>
-<link>http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/</link>
-<comments>http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/#comments</comments>
-<pubDate>Tue, 25 Sep 2012 23:11:06 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[agenda]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/</guid>
-<description><![CDATA[Please suggest items for the Wednesday, September 26, dev chat. Suggested reading: Countdown to 3.5 Beta 1 and Timeline for Twenty Twelve 1.0. Updated. Agenda topics based on the comment thread: #21951 &#8211; Twenty Twelve &#8211; Conditionals in one template versus more templates but less logic #21101 &#8211; get_comments() &#8211; comment_approved versus status #18302 &#8211; [...]]]></description>
-<content:encoded><![CDATA[<p>Please suggest items for the Wednesday, September 26, dev chat.</p>
-<p>Suggested reading: <a href="http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/">Countdown to 3.5 Beta 1</a> and <a href="http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/">Timeline for Twenty Twelve 1.0</a>.</p>
-<p><strong>Updated</strong>. Agenda topics based on the comment thread:</p>
-<ul>
-<li><a href="http://core.trac.wordpress.org/ticket/21951">#21951</a> &#8211; Twenty Twelve &#8211; Conditionals in one template versus more templates but less logic</li>
-<li><a href="http://core.trac.wordpress.org/ticket/21101">#21101</a> &#8211; get_comments() &#8211; comment_approved versus status</li>
-<li><a href="http://core.trac.wordpress.org/ticket/18302">#18302</a> &#8211; theme_uri() with child theme inheritance</li>
-<li><a href="http://core.trac.wordpress.org/ticket/22002">#22002</a> &#8211; Plugin favorites via the plugin installer screen</li>
-</ul>
-<p>An incomplete list of things that need to land before beta 1:</p>
-<ul>
-<li><del>Welcome screen v2</del></li>
-<li>Color picker (even if it is the initial pass; we can follow up after with @mattwiebe&#8217;s changes)</li>
-<li><del>Retina spinners</del> (more likely people can find bugs)</li>
-<li>Page on front UI</li>
-<li>Multisite in a subdirectory</li>
-</ul>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/25/please-suggest-items-for-the-wednesday-september-26/feed/</wfw:commentRss>
-<slash:comments>17</slash:comments>
-</item>
-<item>
-<title>Countdown to 3.5 Beta 1</title>
-<link>http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/</link>
-<comments>http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/#comments</comments>
-<pubDate>Thu, 20 Sep 2012 17:22:53 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[3.5]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/</guid>
-<description><![CDATA[As I covered at the end of the dev chat yesterday (logs), we&#8217;re planning for 3.5 Beta 1 next week. This gives us a week to land a lot of things. I&#8217;ve updated the teams and tasks page. Everything is moving along nicely! Solid pace everywhere. There&#8217;s also a UI-specific progress report from @lessbloat on [...]]]></description>
-<content:encoded><![CDATA[<p>As I covered at the end of the dev chat yesterday (<a href="https://irclogs.wordpress.org/chanlog.php?channel=wordpress-dev&amp;day=2012-09-19&amp;sort=asc#m459350">logs</a>), we&#8217;re planning for <strong>3.5 Beta 1 next week</strong>. This gives us a week to land a lot of things.</p>
-<p>I&#8217;ve updated the <a href="http://make.wordpress.org/core/wordpress-3-5-teams-and-tasks/"><strong>teams and tasks</strong></a> page. Everything is moving along nicely! Solid pace everywhere. There&#8217;s also a <a href="http://make.wordpress.org/ui/2012/09/19/heres-a-list-of-todos-that-came-out/">UI-specific progress report</a> from @lessbloat on make/ui.</p>
-<p><strong>Ship early, ship often.</strong> This is expected to be a very rough cut beta. I called it &#8220;scrappy,&#8221; and not in the pugnacious way. After that, the plan is for a new beta every week. By beta 3 or so, major features should be pretty well shored up.</p>
-<p>Some background on this: As I mentioned during the chat, I really want to make sure we have strong pre-release participation. After studying the last five release cycles, I noticed that earlier and less stable betas can encourage this. When we ship more polished betas, it seems people pick up on that, and it feels like less testing occurs. Additionally, we&#8217;ve sometimes gone a month or more between the first and second beta. Rather than slowing down, beta should be the time we speed up!</p>
-<p>So, by week 6 or so, we should be ready to transition out of bug-fix mode and into RC mode. I&#8217;m excited! Who&#8217;s with me?</p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/20/countdown-to-3-5-beta-1/feed/</wfw:commentRss>
-<slash:comments>7</slash:comments>
-</item>
-<item>
-<title>Timeline for Twenty Twelve 1.0 — final testing window</title>
-<link>http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/</link>
-<comments>http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/#comments</comments>
-<pubDate>Thu, 20 Sep 2012 17:12:44 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[3.5]]></category>
-<category><![CDATA[dev chat]]></category>
-<category><![CDATA[twentytwelve]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/</guid>
-<description><![CDATA[During the dev chat yesterday (logs), it was determined that the timeline for Twenty Twelve&#8217;s release to the WordPress.org theme directory will be next week. That means if you have any bugs to report against Twenty Twelve, please do so now! It&#8217;s time for final reviews. Once 1.0 is released, it will be very tough [...]]]></description>
-<content:encoded><![CDATA[<p>During the dev chat yesterday (<a href="https://irclogs.wordpress.org/chanlog.php?channel=wordpress-dev&amp;day=2012-09-19&amp;sort=asc#m459350">logs</a>), it was determined that the timeline for Twenty Twelve&#8217;s release to the WordPress.org theme directory will be <strong>next week</strong>.</p>
-<p>That means <strong>if you have any bugs to report against Twenty Twelve, please do so now!</strong> It&#8217;s time for final reviews. Once 1.0 is released, it will be very tough for us to make style or code changes, as we will then need to avoid breaking child themes (both code wise, and stylistically).</p>
-<p>So, if you haven&#8217;t looked at Twenty Twelve yet, now&#8217;s the time. Here&#8217;s the demo site: <a href="http://twentytwelvedemo.wordpress.com" rel="nofollow">http://twentytwelvedemo.wordpress.com</a>. Also, if you&#8217;re using the Beta Tester plugin instead of a checkout from Subversion, you may not have Twenty Twelve installed and up to date. In that case, here&#8217;s <a href="http://core.trac.wordpress.org/changeset?format=zip&amp;new=21930&amp;old=21261&amp;new_path=%2Ftrunk%2Fwp-content%2Fthemes%2Ftwentytwelve&amp;old_path=%2Ftrunk%2Fwp-content%2Fthemes%2Ftwentytwelve">a direct link to download a ZIP</a>.</p>
-<p>(<a href='http://make.wordpress.org/core/mentions/westi/' class='mention'>@westi</a>, <a href='http://make.wordpress.org/core/mentions/dd32/' class='mention'>@dd32</a>, we should adjust how beta theme installs are handled&#8230;)</p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/20/timeline-for-twenty-twelve-1-0-final-testing-window/feed/</wfw:commentRss>
-<slash:comments>2</slash:comments>
-</item>
-<item>
-<title>Suggest agenda items for the September 19…</title>
-<link>http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-september-19/</link>
-<comments>http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-september-19/#comments</comments>
-<pubDate>Tue, 18 Sep 2012 23:47:53 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[agenda]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-the-september-18-developer/</guid>
-<description><![CDATA[Suggest agenda items for the September 18 19 developer chat. 20:00 UTC in #wordpress-dev in irc://chat.freenode.net]]></description>
-<content:encoded><![CDATA[<p>Suggest agenda items for the September <del>18</del> 19 developer chat.</p>
-<p>20:00 UTC in #wordpress-dev in <a href="irc://chat.freenode.net" rel="nofollow">irc://chat.freenode.net</a></p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/18/suggest-agenda-items-for-september-19/feed/</wfw:commentRss>
-<slash:comments>8</slash:comments>
-</item>
-<item>
-<title>An upcoming free Stanford HCI human computer interaction…</title>
-<link>http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/</link>
-<comments>http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/#comments</comments>
-<pubDate>Sun, 16 Sep 2012 20:36:51 +0000</pubDate>
-<dc:creator>Matt Mullenweg</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/</guid>
-<description><![CDATA[An upcoming free Stanford HCI (human computer interaction) course coming up: https://www.coursera.org/course/hci (Hat tip: @DanielBachhuber.)]]></description>
-<content:encoded><![CDATA[<p>An upcoming free Stanford HCI (human computer interaction) course coming up:</p>
-<p><a href="https://www.coursera.org/course/hci" rel="nofollow">https://www.coursera.org/course/hci</a></p>
-<p>(Hat tip: @DanielBachhuber.)</p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/16/an-upcoming-free-stanford-hci-human-computer-interaction/feed/</wfw:commentRss>
-<slash:comments>1</slash:comments>
-</item>
-<item>
-<title>The agenda I have for today is going…</title>
-<link>http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/</link>
-<comments>http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/#comments</comments>
-<pubDate>Wed, 12 Sep 2012 18:27:59 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[agenda]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/</guid>
-<description><![CDATA[The agenda I have for today is going through the projects-teams-tasks list and seeing where we are at. Some goals: I would like to cut the open enhancements in 3.5 in half by next week (this report peaked at 97 earlier today). Items should to be either marked for commit or punt. I would like [...]]]></description>
-<content:encoded><![CDATA[<p>The agenda I have for today is going through <a href="http://make.wordpress.org/core/wordpress-3-5-teams-and-tasks/">the projects-teams-tasks</a> list and seeing where we are at.</p>
-<p>Some goals:</p>
-<ul>
-<li>I would like to cut the <a href="http://core.trac.wordpress.org/query?milestone=3.5&amp;type=enhancement&amp;status=!closed&amp;component=!Media&amp;component=!Upload&amp;component=!Bundled+Theme&amp;group=milestone">open enhancements in 3.5</a> in half by next week (this report peaked at 97 earlier today). Items should to be either marked for commit or punt.</li>
-<li>I would like to resume organized, structured bug scrubs on Mondays/Tuesdays/Thursdays.</li>
-<li>I would like any project/task that needs review to get it by this weekend (that&#8217;s mostly on me).</li>
-</ul>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/12/the-agenda-i-have-for-today-is-going/feed/</wfw:commentRss>
-<slash:comments>4</slash:comments>
-</item>
-<item>
-<title>Marking duplicate tickets on Trac</title>
-<link>http://make.wordpress.org/core/2012/09/11/trac-duplicates/</link>
-<comments>http://make.wordpress.org/core/2012/09/11/trac-duplicates/#comments</comments>
-<pubDate>Tue, 11 Sep 2012 17:31:13 +0000</pubDate>
-<dc:creator>Andrew Nacin</dc:creator>
-<category><![CDATA[Uncategorized]]></category>
-<category><![CDATA[trac]]></category>
-<guid isPermaLink="false">http://make.wordpress.org/core/?p=2395</guid>
-<description><![CDATA[Marking duplicate tickets on Trac just got a bit smarter and easier. Now, when you mark a ticket a duplicate, you specify the other ticket. A comment will be cross-posted there that references the duplicate, so you don&#8217;t have to. You can optionally include a comment and any other ticket property changes, as before. If [...]]]></description>
-<content:encoded><![CDATA[<p><strong>Marking duplicate tickets on Trac</strong> just got a bit smarter and easier. Now, when you mark a ticket a duplicate, you specify the other ticket. A comment will be cross-posted there that references the duplicate, so you don&#8217;t have to.</p>
-<p>You can optionally include a comment and any other ticket property changes, as before. If your comment doesn&#8217;t include a reference to the ticket, it&#8217;ll automatically add it.</p>
-<p style="text-align: center"><img class="size-full wp-image-2396 aligncenter" title="Screen Shot 2012-09-11 at 1.19.13 PM" src="http://make.wordpress.org/core/files/2012/09/Screen-Shot-2012-09-11-at-1.19.13-PM.png" alt="" width="532" height="41" /></p>
-<p>A side effect of how the plugin is written (it&#8217;s a modified version of <a href="https://github.com/nmaier/TracDuplicates">this one</a>) is that no email notification is sent for the &#8220;#___ was marked as a duplicate.&#8221; This is great because it avoids a double-email (that until now would happen manually). On the other hand, if you consume Trac via your inbox like me, you might expect that the next email is the other ticket, floated to the surface again. I&#8217;ll leave it as is for now.</p>
-]]></content:encoded>
-<wfw:commentRss>http://make.wordpress.org/core/2012/09/11/trac-duplicates/feed/</wfw:commentRss>
-<slash:comments>1</slash:comments>
-</item>
-</channel>
-</rss>
+<feed xml:lang="en-US" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<id>tag:github.com,2008:/blog</id>
+<link type="text/html" href="https://github.com/blog" rel="alternate"/>
+<link type="application/atom+xml" href="https://github.com/blog.atom" rel="self"/>
+<title>The GitHub Blog</title>
+<updated>2012-10-12T12:13:03-07:00</updated>
+<entry>
+<id>tag:github.com,2008:Post/1290</id>
+<published>2012-10-12T12:13:03-07:00</published>
+<updated>2012-10-12T12:13:03-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1290-indianapolis-drinkup-tonight" rel="alternate"/>
+<title>Indianapolis Drinkup Tonight</title>
+<content type="html">&lt;p>Join &lt;a href="https://github.com/holman">@holman&lt;/a>, the folks from &lt;a href="http://www.rebuildconf.com">re:build 2012&lt;/a>, and myself for a beer tonight at &lt;a href="http://speakeasyindy.com">The Speak Easy&lt;/a> in Indianapolis, Indiana! Party starts at 7PM and GitHub is picking up the tab.&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/60a167902268eb6cb85271d598618268f5b26120/687474703a2f2f636c2e6c792f696d6167652f3030326f33653079337a32342f636f6e74656e74" alt="">&lt;/p>&lt;p>&lt;strong>The Facts&lt;/strong>&lt;/p>&lt;ul>&lt;li>Where: &lt;a href="http://speakeasyindy.com">The Speak Easy&lt;/a> 5255 North Winthrop Avenue Indianapolis, IN 46220&lt;/li>&lt;li>When: Friday, October 12th, 7:00PM&lt;/li>&lt;/ul>&lt;p>&lt;a href="http://maps.google.com/maps?q=the+speak+easy+indianapolis+indiana&amp;amp;hl=en&amp;amp;ll=39.848876,-86.141739&amp;amp;spn=0.021877,0.045447&amp;amp;sll=37.6,-95.665&amp;amp;sspn=45.689933,93.076172&amp;amp;hq=the+speak+easy&amp;amp;hnear=Indianapolis,+Marion,+Indiana&amp;amp;t=m&amp;amp;z=15">&lt;img src="https://a248.e.akamai.net/camo.github.com/11b324d874adc93cc0f3cc93b5231f21cd83c398/687474703a2f2f636c2e6c792f696d6167652f334a317a30333352336432542f636f6e74656e74" alt="">&lt;/a>&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/0a5a5f09f2c85cc425f7b8db4c5e61c1?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>jonmagic</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1289</id>
+<published>2012-10-12T09:30:04-07:00</published>
+<updated>2012-10-12T09:30:04-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1289-emoji-autocomplete" rel="alternate"/>
+<title>Emoji autocomplete</title>
+<content type="html">&lt;p>There are upwards of &lt;a href="http://www.emoji-cheat-sheet.com/">800 emojis available&lt;/a> in any &lt;a href="http://github.github.com/github-flavored-markdown/">GitHub Flavored Markdown&lt;/a> post.  But how do you find the one you are looking for without scrolling through them all?&lt;/p>&lt;p>We feel your pain! So today we're announcing that we have added a feature, similar to the &lt;a href="https://github.com/blog/821" class="user-mention">@mention&lt;/a> autocomplete, where typing &lt;code>:&lt;/code> will show you a list of emoji suggestions. Anything you type after the &lt;code>:&lt;/code> will progressively filter the list. Then once you find the emoji you're looking for, just hit tab or enter to complete the highlighted result.&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/3f2b9fc217a94a81f1345718603b72dd4c4384e8/687474703a2f2f692e696d6775722e636f6d2f6a686755322e706e67" alt="">&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/bbe5dc8dcf248706525ab76f46185520?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>josh</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1288</id>
+<published>2012-10-11T11:52:25-07:00</published>
+<updated>2012-10-11T11:52:25-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1288-second-annual-octocat-dodgeball-invitational" rel="alternate"/>
+<title>Second Annual Octocat Dodgeball Invitational</title>
+<content type="html">&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/17c531308d3ebbf5a79b1e8da83dbf1dda32a320/68747470733a2f2f696d672e736b697463682e636f6d2f32303132313031302d74797163776467737835793437356a72757775646d73376537362e706e67" alt="dodgeball banner">&lt;/p>&lt;p>Last year we invited 17 teams to compete on the dodgeball court, all in the name of charity. &lt;a href="https://github.com/blog/969-first-annual-octocat-dodgeball-tournament-a-success">It was awesome&lt;/a>! While Heroku's team did defeat all the competition, the real champions are those who received some of the $57,000 we raised last year! &lt;/p>&lt;p>This year we're going bigger, with more teams and more donations! We've even paired up with the folks from the &lt;a href="http://dodgeball4ever.com/">World Dodgeball Society&lt;/a> to help make this year's tournament more awesome than last year!&lt;/p>&lt;p>We have room for 24 teams to compete next month. All you need to compete is 10 to 12 of your strongest co-workers or friends, and a donation of $3,000. &lt;a href="http://dodgeball.github.com/">Sign up here&lt;/a>!&lt;/p>&lt;p>We will all be playing for four amazing local charities: &lt;/p>&lt;ul>&lt;li>&lt;a href="http://826valencia.org/">826 Valencia&lt;/a>: dedicated to supporting students ages six to eighteen with their writing skills, and to helping teachers inspire their students to write. &lt;/li>&lt;li>&lt;a href="http://www.streetside.org/">Streetside Stories&lt;/a>: cultivates young people's voices to develop literacy and arts skills, fosters educational equity, values diversity, and builds community.&lt;/li>&lt;li>&lt;a href="http://sfpl.org/">SF Public Libraries&lt;/a>: gives access to information, knowledge, independent learning and the joy of reading.&lt;/li>&lt;li>&lt;a href="http://www.shfb.org/home">Second Harvest Food Bank&lt;/a>: mobilizes individuals, companies, and community partners to connect people to the nutritious food they need. &lt;/li>&lt;/ul>&lt;h5>The Facts:&lt;/h5>&lt;ul>&lt;li>What: The Second Annual Octocat Dodgeball Invitational&lt;/li>&lt;li>Where: &lt;a href="http://goo.gl/maps/Hw2rd">SoMa Rec Center&lt;/a>&lt;/li>&lt;li>When: Sunday, November 11th from 1:00pm - 6:30pm&lt;ul>&lt;li>1:00 to 1:30 - Sign in and warm up&lt;/li>&lt;li>1:30 to 4:30 - Tournament play&lt;/li>&lt;li>5:00 to 6:00 - Finals&lt;/li>&lt;li>6:00 to 6:30 - Awards ceremony&lt;/li>&lt;li>7:00pm - After-party, details coming soon &lt;/li>&lt;/ul>&lt;/li>&lt;/ul>&lt;p>&lt;strong>Register here: &lt;a href="http://dodgeball.github.com/">http://dodgeball.github.com/&lt;/a>&lt;/strong>&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/060dc0e5e351d467dec8bb4936bde683?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>kamzilla</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1287</id>
+<published>2012-10-10T08:55:40-07:00</published>
+<updated>2012-10-10T08:55:40-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1287-github-for-mac-notifications" rel="alternate"/>
+<title>GitHub for Mac: Notifications</title>
+<content type="html">&lt;p>Hot on the heels of &lt;a href="https://github.com/blog/1283-github-for-mac-username-autocompletion">username autocompletion&lt;/a>, today’s release of &lt;a href="http://mac.github.com">GitHub for Mac&lt;/a> adds Notification Center support for users on OS X 10.8 Mountain Lion.&lt;/p>&lt;p>While logged in, with the app open, you will automatically receive notifications from the repositories that you watch:&lt;/p>&lt;p>&lt;img src="https://dl.dropbox.com/u/92083149/notification.png" alt="Example GitHub for Mac notification">&lt;br>&lt;img src="https://dl.dropbox.com/u/92083149/notification-center.png" alt="GitHub for Mac in the Notification Center">&lt;/p>&lt;p>Notifications will be shown for the usual things, like issues and pull requests being opened/closed/commented on, as well as git events, like commits being pushed, or branches and tags being created/deleted. Clicking on any notification will open up more details on GitHub.com.&lt;/p>&lt;p>Enjoy!&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/cac992bb300ed4f3ed5c2a6049e552f9?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>jspahrsummers</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1286</id>
+<published>2012-10-09T13:35:27-07:00</published>
+<updated>2012-10-09T13:35:27-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1286-sf-drinkup-41" rel="alternate"/>
+<title>SF Drinkup #41</title>
+<content type="html">&lt;p>Fall is here! Leaves are changing color, from their summer green to autumn's green. Take a break from zombifying your djangopony costume. Gluing red horns on your cat for their BSD daemon outfit will just have to wait just a bit longer.&lt;/p>&lt;p>Instead, join us for another SF Drinkup! This Thursday evening, we'll be at &lt;a href="http://www.finneganswakesf.com/">Finnegans Wake&lt;/a> buying drinks and talking all things GitHub.&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/7b4c7e993abc6cadeb029dbd9a93bcf9a7ca8a45/687474703a2f2f73332d6d65646961322e616b2e79656c7063646e2e636f6d2f6270686f746f2f516a5258323333477a476d72714a663635384e4145412f6c2e6a7067" alt="Finnegans Wake">&lt;/p>&lt;p>&lt;strong>The Facts:&lt;/strong>&lt;/p>&lt;ul>&lt;li>&lt;a href="http://www.finneganswakesf.com/">Finnegans Wake&lt;/a> - &lt;a href="http://goo.gl/maps/6hDbK">937 Cole St&lt;/a>&lt;/li>&lt;li>Thursday, October 11th at 8:00pm&lt;/li>&lt;/ul>&lt;p>&lt;a href="http://goo.gl/maps/6hDbK">&lt;img src="https://a248.e.akamai.net/camo.github.com/7dd98e6db5444aebd4c0d135f1447d53d18877de/68747470733a2f2f696d672e736b697463682e636f6d2f32303132313030392d71393639316d31747863747265396936387372726933637869722e6a7067" alt="937 Cole Street">&lt;/a>&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/060dc0e5e351d467dec8bb4936bde683?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>kamzilla</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1285</id>
+<published>2012-10-08T15:16:04-07:00</published>
+<updated>2012-10-08T15:16:04-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1285-columbus-drinkup-2" rel="alternate"/>
+<title>Columbus Drinkup #2</title>
+<content type="html">&lt;p>Nothing brings central Ohioans together in the fall like a Buckeyes game. Well, other than a friendly GitHub Drinkup that is.&lt;/p>&lt;p>I've had a lot of conversations over the past couple of years with people trying to figure out how to bring our amazing developer and designer communities together in Columbus. I think our drinkups are the perfect setting for mingling with each other to talk shop and explore the intersection of our crafts. As a designer at GitHub, I'd love to see more people who view themselves as purely creative types stop by and chat it up with the techies. We all have more in common than you might think.&lt;/p>&lt;p>So, join new-GitHubber and former-Ohioan &lt;a href="https://github.com/mattyoho" class="user-mention">@mattyoho&lt;/a> and myself at &lt;a href="http://www.threeleggedmare.com/">The Three-Legged Mare&lt;/a> this Thursday evening for drinks (on us, of course). &lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/0a380ecfbae948665c7c7b40f9d1bd2f6e2d3b33/687474703a2f2f636c2e6c792f696d6167652f316f333132383051323333422f636f6e74656e74" alt="">&lt;/p>&lt;p>&lt;strong>The Facts&lt;/strong>&lt;/p>&lt;ul>&lt;li>Where: &lt;a href="http://www.threeleggedmare.com/">The Three-Legged Mare&lt;/a> - we have the upstairs reserved&lt;/li>&lt;li>When: Thursday, October 11th, 7:00PM&lt;/li>&lt;/ul>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/b8eb356c97ded9ff3d895e5465b483d398b68304/687474703a2f2f636c2e6c792f696d6167652f3232316c304e3436317534332f636f6e74656e74" alt="">&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/6753ce3284e5153f7e24e2d781354e5e?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>jasonlong</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1283</id>
+<published>2012-10-08T11:20:34-07:00</published>
+<updated>2012-10-08T11:20:34-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1283-github-for-mac-username-autocompletion" rel="alternate"/>
+<title>GitHub for Mac: Username Autocompletion</title>
+<content type="html">&lt;p>Today’s release of &lt;a href="http://mac.github.com/">GitHub for Mac&lt;/a> adds the ability to autocomplete GitHub usernames right within the commit summary and description fields.&lt;/p>&lt;p>This works just like comment fields on GitHub.com. By typing &lt;code>@&lt;/code> and then the start of either the username or name of the GitHub user you want to mention, you are greeted with a (rather wonderful) little popover:&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/f56df1e391577289ac370b0b2ab766b7f97abb02/687474703a2f2f636c2e6c792f696d6167652f30493250304c3142317132372f53637265656e25323053686f74253230323031322d31302d3035253230617425323031302e31342e34312e706e67" alt="">&lt;/p>&lt;p>Navigate with the arrow keys, or continue typing, to select your desired user. Hit &lt;code>Return&lt;/code> or &lt;code>Tab&lt;/code> to fill their username into the text field.&lt;/p>&lt;h2>Goodbye Snow Leopard&lt;/h2>&lt;p>Recently, with the vast majority of our users running at least Lion, we made the decision to no longer support Mac OS X 10.6. We also wanted to make use of the improvements available to developers in OS X 10.7 (Lion) and 10.8 (Mountain Lion).&lt;/p>&lt;p>Therefore, going forward, releases of GitHub for Mac will require an install of at least 10.7 to run. If you are running Snow Leopard, you simply won’t see any new updates and can continue to run your existing version.&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/c2e40adce99a3780789b370a2bfa02f6?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>dannygreg</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1284</id>
+<published>2012-10-05T18:44:55-07:00</published>
+<updated>2012-10-05T18:44:55-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1284-drinkup-in-boulder-co" rel="alternate"/>
+<title>Drinkup in Boulder, CO</title>
+<content type="html">&lt;p>Hey Boulder! One of our founders, &lt;a href="https://github.com/mojombo" class="user-mention">@mojombo&lt;/a>, will be in the Boulder area next week and would like to buy you, yes YOU, a beer. There will be several other Boulder GitHubbers attending, so please join them for a beer or two to talk all things GitHub and coding. &lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/c11508339f1d0d84f50e32dab61fe5939d196a1a/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f5f73487663304f69354e51382f5339584c4930304d386d492f41414141414141414a5a6f2f664c6b5f745170593458412f73313630302f50313034303338322e4a5047" alt="">&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/479c18c70010b99a601a795a1b43b1efccf61213/687474703a2f2f662e636c2e6c792f6974656d732f3266305931723074334833683039336c325533392f536f75746865726e25323053756e2c253230536f75746825323042726f61647761792532305374726565742c253230426f756c6465722c253230434f2532302d253230476f6f676c652532304d6170732e6a7067" alt="">&lt;/p>&lt;p>&lt;strong>The Deets&lt;/strong>&lt;/p>&lt;p>Where: &lt;a href="http://goo.gl/maps/qgCHM">Southern Sun&lt;/a>&lt;/p>&lt;p>When: Tuesday 9 October at 9:00PM&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/2eed5e5190a11b8d09ba8d8e5d8d85d4?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>thedukeofsf</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1282</id>
+<published>2012-10-05T13:30:33-07:00</published>
+<updated>2012-10-10T10:13:24-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1282-the-github-training-web-site-is-a-thing" rel="alternate"/>
+<title>The GitHub:Training Web Site is a Thing</title>
+<content type="html">&lt;p>The past six months have seen tremendous growth in GitHub's training organization. We've &lt;a href="https://github.com/blog/1175-jared-koumentis-is-a-githubber">added&lt;/a> &lt;a href="https://github.com/blog/1216-tim-berglund-is-a-githubber">people&lt;/a>, we've &lt;a href="http://teach.github.com/slides/">added materials&lt;/a>, and we've been to more places on the planet to help make it easy for humans to use Git and GitHub. With a mere two million accounts on GitHub.com, we've got plenty more humans to talk to, but we're up for the challenge.&lt;/p>&lt;h2>Introducing training.github.com&lt;/h2>&lt;p>Of course all of this work is going to require us to refine our web presence a bit. I'm very happy to present to you the new training site:&lt;/p>&lt;p>&lt;a href="http://training.github.com">&lt;img src="https://s3.amazonaws.com/pixelhub-heroku-test/designs/designs/000/000/309/original/pixelcatcher.png" alt="An Training Site">&lt;/a>&lt;/p>&lt;p>The new site is your online connection to everything the training team is up to—and that's a lot: &lt;/p>&lt;ul>&lt;li>A listing of current on-line and in-person events&lt;/li>&lt;li>Registration for online classes&lt;/li>&lt;li>Links to office hours&lt;/li>&lt;li>Links to free classes&lt;/li>&lt;li>GitHub training screencasts&lt;/li>&lt;li>External Git educational resources&lt;/li>&lt;li>Other speaking and teaching events the training team does all over Planet Earth&lt;/li>&lt;/ul>&lt;h2>Team Growth&lt;/h2>&lt;p>To support the increased training demand, we've enlisted the help of a developer and a designer inside GitHub. The designer, &lt;a href="https://github.com/cobyism">Coby Chapple&lt;/a>, is largely responsible for the beautiful new training site we've just launched. The developer, &lt;a href="https://github.com/razic">Zachary Kaplan&lt;/a>, is helping us build internal applications to streamline our proposal and client management processes. Look for more awesomeness from Zachary and Coby in the future.&lt;/p>&lt;h2>Open-Source (Almost) Everything&lt;/h2>&lt;p>We agree with our &lt;a href="http://tom.preston-werner.com/2011/11/22/open-source-everything.html">CEO's famous dictum&lt;/a> that just about everything we do should be open-sourced. To that end, we've begun to release our &lt;a href="https://github.com/github/teach.github.com">very own training materials&lt;/a> for you to use, modify, and share. We've got all of our open-source materials up on our beta &lt;a href="http://teach.github.com">teach.github.com&lt;/a> site. Take a look, fork the repo, and send us a pull request!&lt;/p>&lt;h2>Request an event&lt;/h2>&lt;p>If you're interested in a private training session or in having a GitHubber speak at a conference you're organizing, please &lt;a href="http://training.github.com/contact/">get in touch with us&lt;/a>. We travel all over the world helping people know and love Git and GitHub better, so there's a good chance we can help you too. We are waiting to serve you.&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/ddf2d42eac63eb87e1542fc218dbfc86?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>tlberglund</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1281</id>
+<published>2012-10-04T12:31:09-07:00</published>
+<updated>2012-10-04T12:31:09-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1281-drinkup-in-norfolk-va" rel="alternate"/>
+<title>Drinkup in Norfolk, VA</title>
+<content type="html">&lt;p>Hey Norfolk! You're Virginia's second-largest city, so join some East Coast GitHubbers for a pint or two at &lt;a href="http://www.publichouseeats.com">The Public House&lt;/a> to talk all things GitHub and coding. Drinks are on us.&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/00037fa0e42912de957cab9681b16f6b13ef2d84/687474703a2f2f636c2e6c792f696d6167652f31333272324b31743046336e2f6c2e6a7067" alt="">&lt;/p>&lt;p>&lt;a href="http://maps.google.com/maps?q=the+public+house+norfolk&amp;amp;hl=en&amp;amp;ll=36.871828,-76.298804&amp;amp;spn=0.035773,0.040941&amp;amp;sll=38.003385,-79.420925&amp;amp;sspn=9.016717,10.480957&amp;amp;hq=the+public+house&amp;amp;hnear=Norfolk,+Virginia&amp;amp;t=m&amp;amp;z=15&amp;amp;iwloc=A">&lt;img src="https://a248.e.akamai.net/camo.github.com/b60003a2f93bdd4bb8f06eced7b859433c976e01/687474703a2f2f636c2e6c792f696d6167652f316c315833503334335a32682f496d616765253230323031322e31302e3034253230333a32353a3136253230504d2e706e67" alt="">&lt;/a>&lt;/p>&lt;p>&lt;strong>The Facts&lt;/strong>&lt;/p>&lt;p>Where: &lt;a href="http://maps.google.com/maps?q=the+public+house+norfolk&amp;amp;hl=en&amp;amp;ll=36.871828,-76.298804&amp;amp;spn=0.035773,0.040941&amp;amp;sll=38.003385,-79.420925&amp;amp;sspn=9.016717,10.480957&amp;amp;hq=the+public+house&amp;amp;hnear=Norfolk,+Virginia&amp;amp;t=m&amp;amp;z=15&amp;amp;iwloc=A">The Public House&lt;/a>&lt;/p>&lt;p>When: Tuesday 9 October at 8:00PM&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/e32fc8d646083d242229ef8fc9168c27?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>maddox</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1280</id>
+<published>2012-10-04T09:52:48-07:00</published>
+<updated>2012-10-04T09:59:47-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1280-drinkup-in-cambridge-ma" rel="alternate"/>
+<title>Drinkup in Cambridge, MA</title>
+<content type="html">&lt;p>I'm in Cambridge, MA giving tech talks at universities in the area, &lt;a href="http://twitter.com/johndbritton">get in touch&lt;/a> if you'd like me to visit your school. While I'm in town, I'm hosting my first GitHub Drinkup. Join me on Tuesday at Trina's Starlite Lounge.&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/f0713ad747eba23ef8175217eec534c47fb44511/687474703a2f2f662e636c2e6c792f6974656d732f32623150314f30633336343731613346325331342f7472696e61732e6a706567" alt="Trina's Sign">&lt;/p>&lt;p>&lt;strong>Deets:&lt;/strong>&lt;/p>&lt;ul>&lt;li>Where: &lt;a href="http://trinastarlitelounge.com">Trina's Starlite Lounge&lt;/a>&lt;/li>&lt;li>When: Tuesday 9 October at 7:00PM&lt;/li>&lt;/ul>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/51264505721883b22c1069ce0cc0bcc033f92968/687474703a2f2f662e636c2e6c792f6974656d732f304b313233423273315a3276336c3047313833312f53637265656e253235323053686f742532353230323031322d31302d303425323532306174253235323031322e33352e33372532353230504d2e706e67" alt="Location of Trina's on a map">&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/efc09baeb94ed440b185710062c8956d?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>johndbritton</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1279</id>
+<published>2012-10-02T14:13:44-07:00</published>
+<updated>2012-10-02T14:13:44-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1279-peter-williams-is-a-githubber" rel="alternate"/>
+<title>Peter Williams is a GitHubber!</title>
+<content type="html">&lt;p>Yesterday was Peter Williams' first day as a GitHubber. He will be joining the API team, making it even more better (both the API and the team!). He also increases the number of Colorado GitHubbers from his home in Broomfield, CO.&lt;/p>&lt;p>&lt;img src="https://github-images.s3.amazonaws.com/skitch/20121002_134807-20121002-150538.png" alt="Peter Williams">&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/d587890d0fcf8f45724baa8b1bfe1bf4?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>paul</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1277</id>
+<published>2012-09-27T08:32:58-07:00</published>
+<updated>2012-09-27T08:32:58-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1277-game-bytes-3" rel="alternate"/>
+<title>Game Bytes #3</title>
+<content type="html">&lt;p>GitHub is a goldmine of resources for game developers. I'd like to introduce you to five open source projects that'll help you build your first, or &lt;em>next&lt;/em>, amazing game. Check them out for your weekend projects, Game Jam entries, or day-to-day projects at work!&lt;/p>&lt;p>Introducing Torque 3D, Spring, Flixel, Three.js, and cocos2D...&lt;/p>&lt;h3>Torque 3D&lt;/h3>&lt;p>&lt;a href="https://github.com/GarageGames/Torque3D">Torque 3D&lt;/a> was &lt;a href="http://www.garagegames.com/community/blogs/view/21876">recently open sourced&lt;/a> by &lt;a href="http://www.garagegames.com">Garage Games&lt;/a> along with several templates and &lt;a href="http://www.garagegames.com/products/torque-3d/fps">tutorials&lt;/a> to help you build 3D games for the Windows, Mac, Linux, XBOX 360, or Wii platforms. It comes with an impressive world-editing suite, and a &lt;a href="http://www.garagegames.com/products/torque-3d/overview">ton of other features&lt;/a>. It's open source, extremely customizable, and extendable through Torquescript.&lt;/p>&lt;p>If you've used it in the past and/or are interesting in joining the Torque 3D open source steering committee, please take a look at the &lt;a href="http://www.garagegames.com/community/blogs/view/21878">membership charter&lt;/a> (draft).&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/384e695e36b62801244c595742271ee25512ca33/687474703a2f2f692e696d6775722e636f6d2f676b5969332e706e67" alt="">&lt;/p>&lt;h3>Flixel&lt;/h3>&lt;p>&lt;a href="https://github.com/AdamAtomic/flixel">Flixel&lt;/a> is a great little library that is free for personal or commercial use and is easy to learn, extend, and customize. It was created by &lt;a href="http://adamatomic.com">Adam "Atomic" Saltsman&lt;/a> and written entirely in ActionScript. It's packed with &lt;a href="http://flixel.org/features.html">some amazing features&lt;/a> - all well-documented with examples and with source code readily available.&lt;/p>&lt;p>You might recognize one of these games that Adam created - &lt;a href="http://www.adamatomic.com/canabalt/">Canabalt&lt;/a> (a personal favorite of mine), &lt;a href="http://www.adamatomic.com/mode/">Mode&lt;/a>, &lt;a href="http://adamatomic.com/gravity/">Gravity Hook&lt;/a>, and &lt;a href="http://adamatomic.com/fathom/">Fathom&lt;/a>.&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/2b0aec93ea1eb1590a1b1fe07511105c456b912f/687474703a2f2f692e696d6775722e636f6d2f6f4d627a4d2e706e67" alt="">&lt;/p>&lt;h3>Three.js&lt;/h3>&lt;p>&lt;a href="https://github.com/mrdoob/three.js/">Three.js&lt;/a> is a lightweight 3D JavaScript library which provides renderers for HTML5's canvas, SVG and WebGL. There are some great &lt;a href="http://www.aerotwist.com/lab/getting-started-with-three-js/">tutorials&lt;/a>, plus in-depth &lt;a href="http://mrdoob.github.com/three.js/docs/">documentation&lt;/a> to help get you started.&lt;/p>&lt;p>There are a number of web-based games and demos you can see that use it (fair warning - expect to be lost playing/experimenting with these for the next couple of hours):&lt;/p>&lt;ul>&lt;li>&lt;a href="http://hexgl.bkcore.com/">HexGL&lt;/a> - a futuristic, fast-paced racing game based on the Wipeout and F-Zero series&lt;/li>&lt;li>&lt;a href="http://triggerrally.com/">Trigger Rally&lt;/a> - a rally racing game&lt;/li>&lt;li>&lt;a href="http://asmallgame.com/labsopen/webgl_impact">WebGL Impact&lt;/a> - amazing little jetpack demo with &lt;a href="http://code.google.com/p/box2d/">box2D&lt;/a> and &lt;a href="http://impactjs.com/">ImpactJS&lt;/a>&lt;/li>&lt;/ul>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/e563ac6163043be8e44b5b82cb4831a996e93784/687474703a2f2f692e696d6775722e636f6d2f63764e61612e706e67" alt="">&lt;/p>&lt;h3>Spring&lt;/h3>&lt;p>&lt;a href="https://github.com/spring/spring">Spring&lt;/a> is a 3D &lt;acroynm title="Real-Time Strategy">RTS game engine developed for Windows and Linux with experimental Mac support. It started out with the intention of bringing the gameplay experience of &lt;a href="http://en.wikipedia.org/wiki/Total_Annihilation">Total Annihilation&lt;/a> into 3D. They have some &lt;a href="http://springrts.com/wiki/The_Complete_Guide_To_Making_A_Spring_Game">excellent documentation&lt;/a> to help you get started.&lt;/acroynm>&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/4dcc35108053c03880f0bdef7605cf8725ac3c69/687474703a2f2f692e696d6775722e636f6d2f4c717143542e706e67" alt="">&lt;/p>&lt;h3>Cocos2d&lt;/h3>&lt;p>The cocos2d frameworks allows you to build 2D games and interactive applications on a number of platforms. &lt;a href="https://github.com/cocos2d/cocos2d-html5">Cocos2d-html5&lt;/a> is a 2D game engine written in Javascript, based on Cocos2d-X supporting canvas with WebGL support planned for the future. &lt;a href="https://github.com/cocos2d/cocos2d-iphone">Cocos2d-iphone&lt;/a> will help you create games for iPod Touch, iPhone, iPad, and Mac OS X.&lt;/p>&lt;hr>&lt;p>Have you used any of these projects in a school project or Game Jam? We'd love to hear about it - email us at &lt;a href="mailto:gamebytes@github.com">gamebytes@github.com&lt;/a>.&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/8058c2c00149cbe4104ddc9fa814443f?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>leereilly</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1278</id>
+<published>2012-09-26T17:08:17-07:00</published>
+<updated>2012-09-26T17:08:17-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1278-amber-agard-is-a-githubber" rel="alternate"/>
+<title>Amber Agard is a GitHubber</title>
+<content type="html">&lt;p>It's with great pleasure we announce Amber's first day at GitHub. Amber will be helping &lt;a href="https://github.com/bethnewland">Beth&lt;/a> out with the &lt;a href="http://shop.github.com/">GitHub Shop&lt;/a>. &lt;/p>&lt;p>Amber moved here from Tennessee about 9 weeks ago. In her free time, Amber likes to play &lt;a href="http://f.cl.ly/items/3m0r2S223q1r2F1P3J0q/Screen%20Shot%202012-09-26%20at%205.06.33%20PM.png">World of Warcraft&lt;/a>, take pictures, travel, and watch Clemson football.&lt;/p>&lt;p>&lt;img src="https://twimg0-a.akamaihd.net/profile_images/2422435240/4wnsog7ten6f15jipyc0.jpeg" alt="">&lt;/p>&lt;p>Follow her on &lt;a href="https://github.com/amberagard">GitHub&lt;/a>.&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/0e09704055a8efab46601502eebe0d37?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>newman</name>
+</author>
+</entry>
+<entry>
+<id>tag:github.com,2008:Post/1272</id>
+<published>2012-09-26T12:03:21-07:00</published>
+<updated>2012-09-26T12:03:21-07:00</updated>
+<link type="text/html" href="https://github.com/blog/1272-puppetconf-drinkup-san-francisco" rel="alternate"/>
+<title>PuppetConf Drinkup (San Francisco)</title>
+<content type="html">&lt;p>PuppetConf is in town and we’ve got &lt;a href="https://github.com/jnewland" class="user-mention">@jnewland&lt;/a>, &lt;a href="https://github.com/rodjek" class="user-mention">@rodjek&lt;/a>, and myself in attendance. There are some great talks this year, and you can even &lt;a href="http://puppetconf.com/blog/watch-the-puppetconf-live-video-stream">stream many of them for free&lt;/a> (including presentations about &lt;a href="http://puppetconf.com/speakers/?speaker=Jesse%20Newland">Puppet at GitHub&lt;/a> and &lt;a href="http://puppetconf.com/speakers/?speaker=Will%20Farrington">The Setup&lt;/a>). To celebrate, we’re throwing a drinkup with the rest of the GitHub crew &lt;strong>this Friday&lt;/strong> at a local spot near and dear to our hearts: &lt;a href="http://www.yelp.com/biz/zekes-diamond-bar-san-francisco">Zeke’s&lt;/a>!&lt;/p>&lt;p>&lt;img src="https://a248.e.akamai.net/camo.github.com/0d7807aa8838e42988fe7fae1d2dfb9e00ca7e7b/687474703a2f2f63616368652e7669727475616c746f75726973742e636f6d2f342f343033353035322d5a656b65735f53706f7274735f4261725f6e6561725f4154545f5061726b5f53616e5f4672616e636973636f2e6a7067" alt="Zeke’s">&lt;/p>&lt;h2>When&lt;/h2>&lt;p>Friday, September 28th at 8:30 PM&lt;/p>&lt;h2>Where&lt;/h2>&lt;p>&lt;a href="http://goo.gl/maps/RAdhp">&lt;img src="https://a248.e.akamai.net/camo.github.com/d4dce3cfa76c7510ae1ba747b60aaccf97a0dbfc/687474703a2f2f662e636c2e6c792f6974656d732f32473131334633773269326e33663058324f30642f53637265656e25323053686f74253230323031322d30392d3236253230617425323031312e30332e3132253230414d2e706e67" alt="600 3rd Street, San Francisco, CA, 94107">&lt;/a>&lt;/p></content>
+<media:thumbnail url="https://secure.gravatar.com/avatar/993c45489aac7a71f27112ba2ab4f74c?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+<author>
+<name>wfarr</name>
+</author>
+</entry>
+</feed>

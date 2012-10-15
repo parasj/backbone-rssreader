@@ -119,9 +119,10 @@ $(function() {
                     $("#blogtitle").html(feed.title);
                     _.each(feed.items, function(blogItem) {
                         console.log(blogItem);
+                        var description = $(blogItem.description).text();
                         Articles.create({
                             title: blogItem.title,
-                            desc: blogItem.description,
+                            desc: description,
                             url: blogItem.link,
                             date: blogItem.updated
                         });
