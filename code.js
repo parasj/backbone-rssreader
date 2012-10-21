@@ -119,7 +119,8 @@ $(function() {
                     $("#blogtitle").html(feed.title);
                     _.each(feed.items, function(blogItem) {
                         console.log(blogItem);
-                        var description = $(blogItem.description).text();
+                        var description = $(blogItem.description).text().substr(0, 300);
+                        description = description.substr(0, Math.min(description.length, description.lastIndexOf(" "))) + " . . .";
                         Articles.create({
                             title: blogItem.title,
                             desc: description,
